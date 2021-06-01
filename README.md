@@ -1,5 +1,6 @@
 # wdio-bug-reproduce
 Using node 14 latest
+sync mode
 1. pull this repo
 2. npm install
 3. npm run test:wdio
